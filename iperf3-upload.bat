@@ -8,7 +8,7 @@ ECHO   Note: Batch doesn't handle Floating Point
 ECHo    (decimal entry won't work in selection 1)
 ECHO ===============================================
 ECHO 1 - Input Link Bandwidth
-ECHO 2 - Test Input Bandwidth Download
+ECHO 2 - Test Input Bandwidth Upload
 ECHO 3 - Re-Test -500Kb
 ECHO 4 - Re-Test +500Kb
 ECHO 5 - Exit
