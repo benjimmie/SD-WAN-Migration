@@ -30,5 +30,5 @@ Dir Structure
 |   `-- iperf3.exe       #tool for network performance measurement and tuning
 |-- iperf3-download.bat  #batch file for calling iperf3 download parameters and manipulating the output via gnuwin grep & tee
 |-- iperf3-upload.bat    #batch file for calling iperf3 with upload parameters and manipulating the output via gnuwin grep & tee
-`-- ping-applist.bat     #batch file for pinging IPs listed in applist.txt
+|-- ping-applist.bat     #batch file for pinging IPs listed in applist.txt
 ```
