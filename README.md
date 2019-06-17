@@ -8,7 +8,7 @@
 **launch-browser.bat**
 >reads from applist.txt
 
-**ping-ips.bat**
+**ping-applist.bat**
 >reads from applist.txt
 
 Dir Structure
